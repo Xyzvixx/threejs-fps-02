@@ -1,0 +1,13 @@
+out/
+out2/
+kit/
+kit.tar.gz
+competition.json
+requirements.json
+node_modules/
+*.tar.gz
+*.log
+.DS_Store
+wallet.json
+*keypair*.json
+makefun-keypair.json
